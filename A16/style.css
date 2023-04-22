@@ -1,0 +1,15 @@
+.phone {
+    margin: 20px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    background-color: darkslategray;
+    padding: 10px 30px;
+    justify-content: ;
+}
+
+.phone > svg, .phone > p {
+    margin-left: 20px;
+}
+
+

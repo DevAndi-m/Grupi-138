@@ -1,0 +1,16 @@
+.red {
+    position: absolute;
+    display: block; 
+    background-color: red;
+    padding:30px 30px 120px 30px;
+}
+
+.blue {
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px black solid;
+    border-radius: 100px;
+}

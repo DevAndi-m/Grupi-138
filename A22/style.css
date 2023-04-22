@@ -1,0 +1,32 @@
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: transform 2s;
+}
+
+.red:hover {
+    transform: translateX(200px);
+}
+
+.green {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    transition: transform 2s;
+}
+
+.green:hover {
+    transform: rotate(10rad);
+}
+
+.yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    transition: transform 2s;
+}
+
+.yellow:hover {
+    transform: scale(2);
+}
